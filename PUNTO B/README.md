@@ -1,4 +1,6 @@
 Aplicaciones de red LoRa
+
+
 El protocolo es flexible y sirve a áreas bien pobladas, así como a áreas rurales, cuya señal celular no tiene rango.
 Sin embargo, su capacidad para transmitir información es baja, lo que hace que la red funcione mejor en aplicaciones que usan pocos dispositivos IoT en concentración, además de una baja tasa de transmisión de información.
 Aun así, se vuelve útil en la agricultura, en áreas hospitalarias, ciudades inteligentes e incluso en la logística empresarial, que buscan automatizar algunos procesos que no dependen de la recepción o procesamiento de datos en poco tiempo (o en tiempo real). )
