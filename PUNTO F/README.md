@@ -19,7 +19,6 @@ Desarrollo de la implementación con el framework de Arduino utilizando Platform
 Aquí se encuentra el código de la segunda placa, donde el Modulo RF receptor obtiene los datos
 enviados desde el modulo transmisor utilizando la librería mencionada, y que son procesados en la placa Arduino y mostrados en la terminal virtual.
 
-
-
+![ezgif-5-2afd665c4c](https://user-images.githubusercontent.com/109010330/198101564-d10427d8-ab7f-4e87-b3a4-37d344cdcaee.gif)
 
 
