@@ -15,11 +15,10 @@ spread spectrum (CSS).
 LPWAN (Low Power Wide Area Network), son REDES de comunicación inalámbrica que transmiten datos entre un dispositivo y una
 estación base empleadas para comunicar y administrar dispositivos LoRa.
 Privacidad - Términos  23 de diciembre de 2021
-INICIO CONTACTO
+INICIO CONTACTO SOBRE ACTEMIUM SOLUCIONES SEGMENTOS NUESTRA RED NOTICIAS 27/10/22, 0:15 
+¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
 ![image](https://user-images.githubusercontent.com/106460135/198512051-e7056bf4-0e0b-4b8d-bc0a-c392e9c7eb75.png)
-SOBRE ACTEMIUM SOLUCIONES SEGMENTOS NUESTRA RED NOTICIAS
-27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
-– Actemium https://www.actemium.es/redlora/ 2/5
+Actemium https://www.actemium.es/redlora/ 2/5
 LoRaWAN es un PROTOCOLO de red que usa la tecnología LoRa, para redes de baja potencia y área amplia permitiendo que los dispositivos se
 comuniquen de forma inalámbrica (largo alcance) con aplicaciones conectadas a internet.
 Se compone de una red de nodos LoRa que se comunican por gateways y los mensajes lo gestiona un servidor.
