@@ -1,7 +1,6 @@
 ### 
 ¿Qué es la tecnología LoRa y por qué es importante para el IoT?
 
-
 ![image](https://user-images.githubusercontent.com/106460135/198511784-39a539ab-dd4a-4988-8057-450c2faf9a71.png)
 
 
@@ -22,8 +21,8 @@ INICIO CONTACTO
 ![image](https://user-images.githubusercontent.com/106460135/198512051-e7056bf4-0e0b-4b8d-bc0a-c392e9c7eb75.png)
 SOBRE ACTEMIUM SOLUCIONES SEGMENTOS
 NUESTRA RED NOTICIAS
-27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? – Actemium
-https://www.actemium.es/redlora/ 2/5
+27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
+– Actemium https://www.actemium.es/redlora/ 2/5
 LoRaWAN es un PROTOCOLO de red que usa la
 tecnología LoRa, para redes de baja potencia y
 área amplia permitiendo que los dispositivos se
@@ -96,7 +95,6 @@ DISPOSITIVO INTELIGENTE
 ¿Qué es la tecnología LoRa? 
 
 ![image](https://user-images.githubusercontent.com/106460135/198512367-45f5f8ce-d9eb-4797-ad27-c191abc98964.png)
-
 Que es LoRa?
 Arquitectura de red LoRa
 Puntos finales
@@ -132,8 +130,6 @@ LoRa también presenta un algoritmo de velocidad de datos adaptativo para ayudar
 aprovechar al máximo la capacidad de la red de los nodos y la duración de la
 batería.. El protocolo LoRa incluye una serie de capas diferentes que incluyen
 aplicaciones y dispositivos para comunicaciones seguras, cifrado en la red.
-21
-oct
 27/10/22, 0:18 ¿Qué es la tecnología LoRa? - MOKOSmart #1 Solución de dispositivo inteligente en China
 https://www.mokosmart.com/es/lora-technology/ 3/12
 Arquitectura de red LoRa
@@ -214,5 +210,95 @@ Capa física LoRa
 Frecuencia, poder, modulación y señalización
 entre nodos y puertas de enlace
 Seguridad de red LoRa
-El tema de la seguridad de la red se está volviendo gra
+El tema de la seguridad de la red se está volviendo gradualmente importante. Como
+tal, las redes LoRa requieren altos niveles de seguridad para evitar los problemas de
+cualquier sistema.
+Para alcanzar los niveles de seguridad requeridos para las redes LoRa, se han utilizado
+varias capas de encriptación:
+Clave específica del dispositivo (EUI128).
+La clave de red única (EUI64) garantiza la seguridad a nivel de red.
+Clave de aplicación única (EUI64) certificar seguridad de extremo a extremo.
+El uso de estas capas de cifrado garantiza que la red LoRa permanezca
+adecuadamente segura.
+Aplicaciones LoRa
+La tecnología inalámbrica LoRa se coloca preferiblemente para usarse en una
+variedad de aplicaciones.
+27/10/22, 0:18 ¿Qué es la tecnología LoRa? - MOKOSmart #1 Solución de dispositivo inteligente en China
+https://www.mokosmart.com/es/lora-technology/ 6/12
+Las capacidades de largo alcance y baja potencia significan que los puntos finales se
+pueden implementar en una amplia variedad de lugares, dentro y fuera de los
+edificios y aún tienen la capacidad de comunicarse con la puerta de enlace.
+Como el sistema es fácil de implementar y puede usarse para una gran cantidad de
+IoT, Cosas de internet, y máquina a máquina, aplicaciones, M2M.
+Las aplicaciones para la tecnología inalámbrica LoRa incluyen el seguimiento de
+inventario, medición inteligente, datos y monitoreo de máquinas expendedoras;
+aplicaciones de utilidad; industria automotriz, etc.. De hecho, en cualquier lugar donde
+pueda ser necesario el control y el informe de datos.
+La tecnología LoRa es principalmente atractiva para muchas aplicaciones debido a
+su capacidad de largo alcance. La cobertura es fácil de proporcionar y los nuevos
+nodos se pueden conectar y activar fácilmente.
+Dispositivos LoRa
+Picoceldas & Pasarelas: Los sensores capturan y luego transmiten datos a las puertas
+de enlace a distancias cercanas y lejanas, exterior e interior, con el requerimiento de
+potencia más bajo
+Transceptores & Nodos finales: Los transceptores configurados con tecnología LoRa
+se fijan en dispositivos sensores o nodos finales, diseñado para un conjunto de
+aplicaciones industriales.
+Modulación LoRa:
+La tecnología LoRa es la modulación inalámbrica o física (PHY) capa de silicio, usado
+para crear el enlace de comunicación de largo alcance.
+La capa física LoRa utiliza una forma de modulación de espectro extendido. El sistema
+de modulación LoRa utiliza pulsos controlados por frecuencia lineal de banda ancha.
+El nivel de aumento o disminución de frecuencia con el tiempo se utiliza para
+codificar los datos que se transmitirán, como; una forma de modulación chirp.
+Este tipo de modulación permite a los sistemas inalámbricos LoRa demodular señales
+que están a 20 dB por debajo del nivel de ruido cuando la demodulación se combina
+con la corrección de errores de reenvío, FEC. En comparación con un sistema FSK
+tradicional; El presupuesto de enlace para un sistema LoRa puede ofrecer una mejora
+de más de 25dB.
+27/10/22, 0:18 ¿Qué es la tecnología LoRa? - MOKOSmart #1 Solución de dispositivo inteligente en China
+https://www.mokosmart.com/es/lora-technology/ 7/12
+Como resultado del punto de que la transmisión se extiende de forma
+pseudoaleatoria, Puede ser difícil para los usuarios que no son Lora detectar y parece
+ruido. Esto puede ayudar en la seguridad del sistema..
+Una ventaja adicional del sistema es que la modulación chirp y el sistema, en general,
+es tolerante a las compensaciones de frecuencia y como resultado, Es posible utilizar
+un oscilador de cristal básico con un 20-30 aceptación de ppm en lugar de un
+oscilador que paga la temperatura, TCXO. Esto puede proporcionar algunos buenos
+ahorros de costos dentro del circuito electrónico del nodo.
+LoRaWAN:
+mientras tanto, LoRa describe la capa física inferior, las capas superiores de redes
+estaban ausentes. LoRaWAN es uno de los numerosos protocolos que se desarrollaron
+para describir las capas superiores de la red.. LoRaWAN es un control de acceso a
+medios basado en la nube (MAC) protocolo de capa, pero actúa principalmente
+como un protocolo de capa de red para gestionar la comunicación entre dispositivos
+de nodo final y puertas de enlace LPWAN, como protocolo de dirección, mantenido
+por la Alianza LoRa. Versión de especificación LoRaWAN 1.0 fue lanzado en junio 2015.
+LoRaWAN define la arquitectura del sistema y el protocolo de comunicación para la
+red., mientras que la capa física LoRa permite el enlace de comunicación de largo
+alcance. LoRaWAN también es responsable de administrar la velocidad de datos,
+alimentación para todos los dispositivos y frecuencias de comunicación. Los
+dispositivos en la red transmiten cuando tienen datos disponibles para enviar. Los
+datos transmitidos por un dispositivo de nodo final son recibidos por múltiples puertas
+de enlace, que reenvían los paquetes de datos a un servidor de red central. Los filtros
+del servidor duplican los paquetes., realiza controles de seguridad, y gestiona la red.
+Los datos se transfieren a los servidores de aplicaciones.. La tecnología muestra alta
+consistencia para la carga modesta; sin embargo, tiene algunos problemas de
+rendimiento relacionados con el envío de reconocimientos
+Alianza Lora
+Como con muchos otros sistemas, Se creó un organismo de la industria para
+desarrollar y luego promover el sistema inalámbrico LoRa en toda la industria llamado
+LoRa Alliance. Fue lanzado en marzo. 2015. Como dice la Alianza, fue configurado para
+proporcionar un estándar global abierto para seguridad, conectividad IoT LPWAN de
+nivel de operador.
+Aunque LoRa había sido desarrollado esencialmente por Semtech, abriendo el
+estándar, permitió que fuera adoptado por un gran número de compañías, haciendo
+27/10/22, 0:18 ¿Qué es la tecnología LoRa? - MOKOSmart #1 Solución de dispositivo inteligente en China
+https://www.mokosmart.com/es/lora-technology/ 8/12
+crecer el ecosistema y ganando una participación significativamente mayor, Una
+mayor variedad de productos y un aumento general en el uso y aceptación.
+Los miembros fundadores de LoRa Alliance incluyen Actility, Cisco, Eolane, IBM, Kerlink,
+IMST, MultiTech, Sagemcom, Semtech, y tecnología de microchip, así como
+operadores de telecomunicaciones líderes: Bouygues Telecom, KPN, SingTel, Proximus,
+Swisscom, y FastNet (parte de Telkom Sudáfrica).
 
