@@ -1,2 +1,3 @@
 Conclusiones
+
 En resumen LoRa termina siendo una tecnología muy flexible para solucionar diversos y variados problemas, gracias a sus topologías de conexión P2P, mesh y redes LoRaWAN privadas o públicas. Gracias a su largo alcance y bajo consumo esto la hace una tecnología barata y fácil de implementar. Conjuntamente con la capa de seguridad que ofrece su protocolo de comunicación de nivel superior LoRAWAN, la elección de una solución de IoT basada en LoRa es una inversión segura que permite un rápido crecimiento sin comprometer los datos, asegurando su calidad y fiabilidad en la extracción, tratamiento y carga de los datos recogidos.
