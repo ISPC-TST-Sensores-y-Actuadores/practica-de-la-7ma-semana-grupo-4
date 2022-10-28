@@ -53,8 +53,8 @@ Objetivo: envío de pequeñas cantidades de datos que se transmiten a muy bajas 
 alcance”
 Privacidad - Términos
  
-27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? – Actemium
-https://www.actemium.es/redlora/ 3/5
+27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
+ – Actemium https://www.actemium.es/redlora/ 3/5
 Competidora, por así decirlo, de Sigfox y basada en el protocolo LoRaWAN (Long Range Wide-Area Network), a diferencia de
 esta, es una tecnología Open Source, abierta a cualquier empresa que quiera desplegar su propia red LoRa para explotarla
 posteriormente y a diferencia de SigFox, los módulos LoRa estándar pueden operar de forma bidireccional.
