@@ -1,6 +1,6 @@
 ### 
-¿Qué es la tecnología LoRa y por
-qué es importante para el IoT?
+¿Qué es la tecnología LoRa y por qué es importante para el IoT?
+
 En 2016, Samsung hizo público su acuerdo con la empresa SK Telecom para lanzar al mercado la primera red comercial en el
 mundo para «Smart Cities», del tipo LoRaWAN (Long Range Wide-Area Network).
 La implantación de este tipo de red comenzó en la ciudad de Daegu en Corea del Sur y se extendió a lo largo del todo el país
