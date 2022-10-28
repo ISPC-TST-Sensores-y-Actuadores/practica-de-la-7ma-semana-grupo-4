@@ -3,7 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/106460135/198511784-39a539ab-dd4a-4988-8057-450c2faf9a71.png)
 
-
 En 2016, Samsung hizo público su acuerdo con la empresa SK Telecom para lanzar al mercado la primera red comercial en el
 mundo para «Smart Cities», del tipo LoRaWAN (Long Range Wide-Area Network).
 La implantación de este tipo de red comenzó en la ciudad de Daegu en Corea del Sur y se extendió a lo largo del todo el país
@@ -15,45 +14,28 @@ LoRa (Long Range) es una TECNOLOGÍA de modulación inalámbrica basada en sprea
 spread spectrum (CSS).
 LPWAN (Low Power Wide Area Network), son REDES de comunicación inalámbrica que transmiten datos entre un dispositivo y una
 estación base empleadas para comunicar y administrar dispositivos LoRa.
-Privacidad - Términos
- 23 de diciembre de 2021
+Privacidad - Términos  23 de diciembre de 2021
 INICIO CONTACTO
 ![image](https://user-images.githubusercontent.com/106460135/198512051-e7056bf4-0e0b-4b8d-bc0a-c392e9c7eb75.png)
-SOBRE ACTEMIUM SOLUCIONES SEGMENTOS
-NUESTRA RED NOTICIAS
+SOBRE ACTEMIUM SOLUCIONES SEGMENTOS NUESTRA RED NOTICIAS
 27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
 – Actemium https://www.actemium.es/redlora/ 2/5
-LoRaWAN es un PROTOCOLO de red que usa la
-tecnología LoRa, para redes de baja potencia y
-área amplia permitiendo que los dispositivos se
-comuniquen de forma inalámbrica (largo
-alcance) con aplicaciones conectadas a internet.
-Se compone de una red de nodos LoRa que se
-comunican por gateways y los mensajes lo
-gestiona un servidor.
-Sobre la red LoRa y el IoT
-La red LoRa es una red de comunicaciones
-inalámbrica (al igual que WiFi, Bluetooth,
-LTE, SigFox o Zigbee) especialmente
-diseñada para el IoT pero con un consumo
-energético mucho más bajo por la banda
-en la que oscila
-Tiene como objeto enviar pocas cantidades de datos en la banda de los 868 MHz aproximadamente (no se requieren
+LoRaWAN es un PROTOCOLO de red que usa la tecnología LoRa, para redes de baja potencia y área amplia permitiendo que los dispositivos se
+comuniquen de forma inalámbrica (largo alcance) con aplicaciones conectadas a internet.
+Se compone de una red de nodos LoRa que se comunican por gateways y los mensajes lo gestiona un servidor.
+Sobre la red LoRa y el IoT La red LoRa es una red de comunicaciones inalámbrica (al igual que WiFi, Bluetooth,
+LTE, SigFox o Zigbee) especialmente diseñada para el IoT pero con un consumo energético mucho más bajo por la banda
+en la que oscila. Tiene como objeto enviar pocas cantidades de datos en la banda de los 868 MHz aproximadamente (no se requieren
 licencias para operar a esta frecuencia) mediante pequeños dispositivos IoT o M2M (machine to machine) de manera
-bidireccional mediante la instalación de un chip LoRA en estos, dando muy alta cobertura o alcance (2-5km em entorno
-urbano).
-Estas pequeñas cantidades de datos se transmiten a muy bajas
-velocidades (por debajo de 5 Kbps) aunque puede trabajar entre 0.3
-kbps y 50 kbps. A su vez, da lugar a un menor consumo de energía y
-por tanto, da un mayor tiempo de vida a las baterías (autonomía de
-10 años con dos pilas AAA aprox.). La idea principal es la de utilizar
-el protocolo LoRaWan es busca de eficiencia, no velocidad.
- “
-Objetivo: envío de pequeñas cantidades de datos que se transmiten a muy bajas velocidades con gran 
-alcance”
+bidireccional mediante la instalación de un chip LoRA en estos, dando muy alta cobertura o alcance (2-5km em entorno urbano).
+Estas pequeñas cantidades de datos se transmiten a muy bajas velocidades (por debajo de 5 Kbps) aunque puede trabajar entre 0.3
+kbps y 50 kbps. A su vez, da lugar a un menor consumo de energía y por tanto, da un mayor tiempo de vida a las baterías (autonomía de
+10 años con dos pilas AAA aprox.). La idea principal es la de utilizar el protocolo LoRaWan es busca de eficiencia, no velocidad.
+
+Objetivo: envío de pequeñas cantidades de datos que se transmiten a muy bajas velocidades con gran alcance”
 Privacidad - Términos
- 
 27/10/22, 0:15 ¿Qué es la tecnología LoRa y por qué es importante para el IoT? 
+
  – Actemium https://www.actemium.es/redlora/ 3/5
 Competidora, por así decirlo, de Sigfox y basada en el protocolo LoRaWAN (Long Range Wide-Area Network), a diferencia de
 esta, es una tecnología Open Source, abierta a cualquier empresa que quiera desplegar su propia red LoRa para explotarla
@@ -107,7 +89,6 @@ Seguridad de red LoRa
 Aplicaciones LoRa
 Dispositivos LoRa
 Alianza Lora
-
 27/10/22, 0:18 ¿Qué es la tecnología LoRa? - MOKOSmart #1 Solución de dispositivo inteligente en China
 https://www.mokosmart.com/es/lora-technology/ 2/12
 Que es LoRa?
